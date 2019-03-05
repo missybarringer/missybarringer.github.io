@@ -171,7 +171,7 @@ textarea {
 .portfolio {
     box-sizing: border-box;
     background-color: #fff;
-    width: 50%;
+    width: 90%;
     height: 600px;
     margin-left: 5%;
     margin-top: 3%;
@@ -218,20 +218,20 @@ textarea {
     top: 80%;
     left: 0;
     background-color: #4aaaa5;
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-    animation-name: example;
-    animation-duration: 4s;
+    /* -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    /*-webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    /*animation-name: example;
+    /*animation-duration: 4s; */
 }
 
 /* Bonus CSS Animation */
 /* Safari 4.0 - 8.0 */
-@-webkit-keyframes example {
+/* @-webkit-keyframes example {
     0%   {background-color: rgb(255, 0, 157);}
     25%  {background-color: rgb(255, 166, 0);}
     50%  {background-color: rgb(0, 140, 255);}
     100% {background-color: rgb(26, 128, 0);}
-  }
+  } */
 
 .rpg-box {
     position: relative;
