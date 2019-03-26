@@ -5,9 +5,6 @@ body {
     margin: 0px;
     width: 100%;
 }
-/* .sm {
-    height: 250px;
-} */
 #homepage {
     background-image: url("../images/wabiSabi.png");
     background-position: left center;
@@ -53,20 +50,12 @@ h4 {
 }
 #surfaceDesign {
     background-image: url("../images/geology2-01.png");
-    /* background-position: left center; */
-    /* background-size: auto; */
     background-repeat: repeat;
     text-align: left;
     height: 300px;
     width: 100%;
     color: white;
 }
-/* .contactOverlay {
-    background-image: url("../images/geology-01.png");
-    background-size: auto;
-    background-repeat: repeat;
-    background-color: #251f16;opacity:.8;
-} */
 #contact {
     position: relative;
     color: white;
