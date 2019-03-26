@@ -4,19 +4,11 @@ ____________________________________
 @missybarringer
 ____________________________________
 ## Technology
-* CSS3, HTML5, Media Queries
+* CSS3, HTML5, JavaScript, React, Node.js, firebase, MongoDB
 * [GitHub Repository Link](https://github.com/missybarringer/missybarringer.github.io.git)
 ____________________________________
 ## About
-#### This is my published website for the Vanderbilt FullStack Coding Bootcamp
-#### All assignments turned in during the Bootcamp are linked in my portfolio pages
-____________________________________
-#### Photo Contribuitions came from the following people on unsplash
-* Photo by Clem Onojeghuo on Unsplash
-* Photo by Fabian Grohs on Unsplash
-* Photo by Florian Olivo on Unsplash
-* Photo by Maik Jonietz on Unsplash
-* Photo by Rawpixel on Unsplash
+#### This is my published website
 ____________________________________
 ## License
 *This product is licensed under the MIT License (MIT).
@@ -28,8 +20,7 @@ ____________________________________
 ## Contact
 * [Website](https://missybarringer.github.io/)
 * e-mail: barringer.margaret@gmail.com
-* Twitter: @goatfeatherfarm
-* Facebook: @goatfeatherfarm
-* Instagram: @goatfeatherfarm
+* Twitter: @WebWabiSabi
+* Instagram: @WebWabiSabi
 
 Code Review by Rob Suttles  ***Looks great!***
