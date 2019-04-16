@@ -73,5 +73,17 @@ a:hover {
 a:active {
     text-decoration: none; color: white;
 }
+.card-link > a:link {
+    text-decoration: none; color: black;
+}
+.card-link > a:visited {
+    text-decoration: none; color: black;
+}
+.card-link > a:hover {
+    text-decoration: none; color: black;
+}
+.card-link > a:active {
+    text-decoration: none; color: black;
+}
 
 
