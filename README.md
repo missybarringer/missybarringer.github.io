@@ -25,7 +25,7 @@ ____________________________________
 ## Contact
 * [Website](https://missybarringer.github.io/)
 * e-mail: barringer.margaret@gmail.com
-* Twitter: @WebWabiSabi
-* Instagram: @WebWabiSabi
+* Twitter: @WebWabiSabi_com
+* Instagram: @WebWabiSabi_com
 
 Code Review by Rob Suttles  ***Looks great!***
