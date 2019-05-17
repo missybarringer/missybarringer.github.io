@@ -9,8 +9,6 @@ ____________________________________
 ____________________________________
 ## About
 * [This is my published website](https://missybarringer.github.io/)
-* My goal after graduation would be to become a Full-Stack developer for a
-local technical company.
 * Creativity and pushing the envelope is a passion that has driven me to pursue a Full-Stack development career 
 using the latest technologies. Core concepts in JavaScript, jQuery, Node, Firebase, databases, React, 
 and Java were some of the technologies learned during Vanderbilt's bootcamp.
